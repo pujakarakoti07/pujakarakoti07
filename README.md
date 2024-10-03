@@ -1,6 +1,6 @@
 🚀 Java Full Stack Developer | Tech Enthusiast | Problem Solver 🚀<br/>
-👨‍💻 Currently pursuing B.Tech in Information Technology
-🌱 Learning and building with Spring Boot and React.js
+👨‍💻 Currently pursuing B.Tech in Information Technology<br/>
+🌱 Learning and building with Spring Boot and React.js<br/>
 💻 Passionate about developing innovative web applications
 <!---
 pujakarakoti07/pujakarakoti07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
