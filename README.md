@@ -1,4 +1,4 @@
-🚀 Java Full Stack Developer | Tech Enthusiast | Problem Solver 🚀
+🚀 Java Full Stack Developer | Tech Enthusiast | Problem Solver 🚀<br/>
 👨‍💻 Currently pursuing B.Tech in Information Technology
 🌱 Learning and building with Spring Boot and React.js
 💻 Passionate about developing innovative web applications
